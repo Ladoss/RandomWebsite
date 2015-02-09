@@ -1,2 +1,2 @@
-# RandomWebsite
+# uselesswebsite
 Ze useless website repo 
